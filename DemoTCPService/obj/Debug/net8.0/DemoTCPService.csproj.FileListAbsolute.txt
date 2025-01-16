@@ -1,0 +1,14 @@
+D:\PRN222\DemoTCPService\DemoTCPService\bin\Debug\net8.0\DemoTCPService.exe
+D:\PRN222\DemoTCPService\DemoTCPService\bin\Debug\net8.0\DemoTCPService.deps.json
+D:\PRN222\DemoTCPService\DemoTCPService\bin\Debug\net8.0\DemoTCPService.runtimeconfig.json
+D:\PRN222\DemoTCPService\DemoTCPService\bin\Debug\net8.0\DemoTCPService.dll
+D:\PRN222\DemoTCPService\DemoTCPService\bin\Debug\net8.0\DemoTCPService.pdb
+D:\PRN222\DemoTCPService\DemoTCPService\obj\Debug\net8.0\DemoTCPService.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\DemoTCPService\DemoTCPService\obj\Debug\net8.0\DemoTCPService.AssemblyInfoInputs.cache
+D:\PRN222\DemoTCPService\DemoTCPService\obj\Debug\net8.0\DemoTCPService.AssemblyInfo.cs
+D:\PRN222\DemoTCPService\DemoTCPService\obj\Debug\net8.0\DemoTCPService.csproj.CoreCompileInputs.cache
+D:\PRN222\DemoTCPService\DemoTCPService\obj\Debug\net8.0\DemoTCPService.dll
+D:\PRN222\DemoTCPService\DemoTCPService\obj\Debug\net8.0\refint\DemoTCPService.dll
+D:\PRN222\DemoTCPService\DemoTCPService\obj\Debug\net8.0\DemoTCPService.pdb
+D:\PRN222\DemoTCPService\DemoTCPService\obj\Debug\net8.0\DemoTCPService.genruntimeconfig.cache
+D:\PRN222\DemoTCPService\DemoTCPService\obj\Debug\net8.0\ref\DemoTCPService.dll
